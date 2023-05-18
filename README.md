@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/3agnEib.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I walked through this part as if I was an end-user/customer creating a ticket. This is the starting page for the osTicet support center.
 </p>
 <br />
 
@@ -36,7 +36,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/WtKOvcb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created a ticket as "Karen Karson" and used the help topic that I created as an admin in osTicket to describe a scenario that may occur in the real-world.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/YqT4lor.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I walked through this part as if I was the cue/ticket manager. I reworked the ticket and changed the settings to match the help topic which was a Sev-A (emergency ticket). It was a ticket that needed to be worked on and solved immediately because in a real-world scenario it would negatively impact the whole business.
 </p>
 <br />
 
@@ -52,7 +52,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/Tm1aBOz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+This is a photo of how the reworked ticket looked like in the open tickets section.
 </p>
 <br />
 
@@ -60,7 +60,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/CS3eLQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I wrote a message saying that the "issue" had been fixed and changed the ticket status from "open" to "resolved." This closed the ticket.
 </p>
 <br />
 
@@ -68,6 +68,6 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/0Fqx0CT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+This is a photo of how the resolved ticket looked like in the closed tickets section.
 </p>
 <br />
